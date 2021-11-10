@@ -1,0 +1,4 @@
+10 nov 2021
+
+SE practicals
+-how to use git (lecture)
