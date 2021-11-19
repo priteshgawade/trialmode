@@ -2,3 +2,5 @@
 
 SE practicals
 -how to use git (lecture)
+hello
+world
